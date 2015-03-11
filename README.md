@@ -1,5 +1,7 @@
 # InfoSec-Notes
 
+**This repo has been discontinued. It will reappear somewhere else in another project**
+
 This repo will contain every note I make related to information secrutiy. I have been an enthusiast for over two years,
 and after having a late night rm -Rf frenzy on my machine I accidentally deleted the folder containing every single note
 I had made in those years.
